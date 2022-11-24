@@ -12,8 +12,7 @@ In this assignment, I use neural network to train 'Xor'.
 
 ```sh
 # Compile
-cd src/
-gcc -o main HM1.c
+gcc -o main HM1.c -lm
 # Run
 ./main
 ```
